@@ -12,8 +12,7 @@ app.use('/blogs',blogRoutes)
 const port = process.env.PORT || 8001;
 
 
-app.listen(port,()=>{
-    console.log('Server UP running in http://localhost:8001/')
-})
-    
-
+app.listen(port, () => {
+    console.log(`Server UP running on http://localhost:${port}/`);
+  });
+  
