@@ -1,6 +1,6 @@
 import mongoose from "mongoose"
 
-const url = "mongodb+srv://alejandro902019:123@cluster0.lklkehb.mongodb.net/mern?retryWrites=true&w=majority&appName=Cluster0"
+const url = "mongodb+srv://produccion:123@cluster6.jbvsirp.mongodb.net/mern?retryWrites=true&w=majority&appName=Cluster6"
 
 mongoose.connect(url);
 
