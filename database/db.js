@@ -1,4 +1,4 @@
-import mongoose from "mongoose";
+import mongoose from "mongoose"
 
 const url = "mongodb+srv://alejandro902019:123@cluster0.lklkehb.mongodb.net/mern?retryWrites=true&w=majority&appName=Cluster0"
 
